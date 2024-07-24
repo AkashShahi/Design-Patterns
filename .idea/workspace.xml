@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12983195-a0d8-4e3e-821e-f40aefd3fea0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/CrowEagleFlyingBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Dancing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/DancingBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Flying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/FlyingBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Owl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/OwlPenguinDancingBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Designa_a_bird/Bird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,8 +46,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Client.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -51,6 +60,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Designa_a_bird.Client" />
+      <module name="Design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Designa_a_bird.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721762400900</updated>
-      <workItem from="1721762401993" duration="469000" />
+      <workItem from="1721762401993" duration="7949000" />
     </task>
     <servers />
   </component>
